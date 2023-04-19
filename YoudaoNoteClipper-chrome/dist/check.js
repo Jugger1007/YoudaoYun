@@ -1,0 +1,1 @@
+window.chrome.extension.onRequest.addListener((function(e){"check"===e.msg&&(document.body.getAttribute("youdao")?window.chrome.runtime.sendMessage({method:"Insert",id:e.id}):window.chrome.runtime.sendMessage({method:"isNotInsert",id:e.id}))}));

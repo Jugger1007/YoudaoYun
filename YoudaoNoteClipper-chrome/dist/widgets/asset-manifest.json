@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.731c4865.css",
+    "main.js": "./static/js/main.1ff8f30f.js",
+    "static/media/logo.svg": "./static/media/logo.0494cbb6eae83cb29986f75e89613838.svg",
+    "static/media/logo-jc.svg": "./static/media/logo-jc.0cc9f52e4b1e2c0d0deef8b16bf2baf3.svg",
+    "static/media/loading.svg": "./static/media/loading.cb7f46c7fc52e22f74f7accc9c8d1e2f.svg",
+    "static/media/url-icon.svg": "./static/media/url-icon.315b01f2ef746e24bc131a0af3da0e9a.svg",
+    "static/media/url-selected-icon.svg": "./static/media/url-selected-icon.f93c8aaa879a4fddf512d611cb1122b9.svg",
+    "static/media/dir-gray.svg": "./static/media/dir-gray.c6713fa15c7d1ddc0bfd2524674d0eec.svg",
+    "static/media/fail.svg": "./static/media/fail.328fe4738f67a3549a9569dd27815d54.svg",
+    "index.html": "./index.html",
+    "static/media/success.svg": "./static/media/success.65d14dde5b38bb271ceb8d5240ef8d34.svg",
+    "static/media/full-icon.svg": "./static/media/full-icon.4377fc625bdc6bf120441f0edf483313.svg",
+    "static/media/full-selected-icon.svg": "./static/media/full-selected-icon.e14e498addbdc0f6c7ec785648b14774.svg",
+    "static/media/up-drag.svg": "./static/media/up-drag.ca681c3d2015b1a97965b6261b69e652.svg",
+    "static/media/down-drag.svg": "./static/media/down-drag.f61b84d6c04e7d8249ccff5206c96fdd.svg",
+    "static/media/right-drag.svg": "./static/media/right-drag.c6fa0812058750cfe0986a4d264fc416.svg",
+    "static/media/content-icon.svg": "./static/media/content-icon.606a33f8aeb71e21ceb51001442b14bf.svg",
+    "static/media/content-selected-icon.svg": "./static/media/content-selected-icon.c12264d5b8d9b012470d69c5053656c4.svg",
+    "static/media/logout.svg": "./static/media/logout.e8bd0a4b0c1726aac897dea0b22e2c08.svg",
+    "static/media/close.svg": "./static/media/close.29eed476bbc6b88b2500e594836c1734.svg",
+    "static/media/radio-unchecked.svg": "./static/media/radio-unchecked.6e71bb63fad83247a61115a11d62c39c.svg",
+    "static/media/radio-checked.svg": "./static/media/radio-checked.a6cdb84a249c3893239d1d0d48910872.svg",
+    "main.731c4865.css.map": "./static/css/main.731c4865.css.map",
+    "main.1ff8f30f.js.map": "./static/js/main.1ff8f30f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.731c4865.css",
+    "static/js/main.1ff8f30f.js"
+  ]
+}
